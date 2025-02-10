@@ -37,7 +37,7 @@ public partial class FILE_Activacion_Cheques_Funciones : System.Web.UI.Page
         List<ClsCampos> lstcampo = new List<ClsCampos>();
         ClsCampos campo = new ClsCampos();
 
-        DataSet ds = lib.ejecutarConsultaEnDataSet("GESRH_SPT_NOM_Layout_BanncosActivacionCheques");
+        DataSet ds = lib.ejecutarConsultaEnDataSet("SPT_NOM_Layout_BanncosActivacionCheques");
         if (ds.Tables.Count > 0)
         {
             for (int i = 0; i < ds.Tables[0].Rows.Count; i++)
