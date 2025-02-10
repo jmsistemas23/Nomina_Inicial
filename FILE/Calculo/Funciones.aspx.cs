@@ -45,7 +45,7 @@ public partial class FILE_Calculo_Funciones : System.Web.UI.Page
     {
         string[] result = { "", "" };
         Utilerias lib = new Utilerias();
-        DataSet ds = lib.ejecutarConsultaEnDataSet("GESRH_SPT_Calculo_GenerarCalculo_Informacion " + proyeccion);
+        DataSet ds = lib.ejecutarConsultaEnDataSet("SPT_Calculo_GenerarCalculo_Informacion " + proyeccion);
         result[0] = DataTableToJsonObj(ds.Tables[0]);
         result[1] = ds.Tables[1].Rows[0][0].ToString();
         return result;
