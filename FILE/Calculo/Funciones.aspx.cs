@@ -35,7 +35,7 @@ public partial class FILE_Calculo_Funciones : System.Web.UI.Page
     public static string CancelarCalculo(string proyeccion)
     {
         Utilerias lib = new Utilerias();
-        DataSet ds = lib.ejecutarConsultaEnDataSet("GESRH_SPT_Calculo_GenerarCalculo_Detenercalculo " + proyeccion);
+        DataSet ds = lib.ejecutarConsultaEnDataSet("SPT_Calculo_GenerarCalculo_Detenercalculo " + proyeccion);
         return ds.Tables[0].Rows[0][0].ToString();
     }
 
