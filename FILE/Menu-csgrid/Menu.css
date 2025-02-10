@@ -1,0 +1,130 @@
+﻿
+.LetraChica16 { font-family: Arial; font-size: 16pt; font-weight: bold; font-variant:small-caps; color:#7F3300;  }
+.LetraChica10 { font-family: Arial; font-size: 10pt; font-variant:small-caps; color:#861D31;  }
+.LetraChicaQuin { font-family: Arial; font-size: 11pt; font-weight: bold; font-variant:small-caps;  color:white;  }
+
+
+.item1 { grid-area: main;   background-color:#eeeeee;}
+.item2 { grid-area: right;  background-color:#eeeeee; }
+.item3 { grid-area: footer;   background-color: #861D31;   }
+
+.grid-container > div {
+  font-size: 20px;
+}
+
+.grid-container {   
+  min-height: 100vh;
+  min-width: 50vw;
+  display: grid;
+  grid-template-areas:
+    'main main main main main right'
+    'main main main main main right'
+    'footer footer footer footer footer footer';
+  grid-gap: 1px; 
+  grid-template-columns:3fr 1fr;
+  grid-template-rows: 4rem 1fr 2rem; 
+  padding: 0px;
+}
+
+.MenuInicial ul{
+    margin:0;
+    padding:0;
+}
+
+.MenuInicial ul li{
+    list-style:none;
+}
+.MenuInicial ul li a {    
+    text-decoration:none;
+    color:white;
+    width:50px;
+    height:70px;
+    line-height:80px;   
+    font-size:40px;
+    text-align:center;    
+    display:block;   
+    background-position:center center;
+    background-repeat: no-repeat; 
+    cursor: pointer;    
+}
+
+.aMenu {	           
+    background-image: url('../../Imagenes/botones/menu1.png');     
+}
+.aMenu:hover {	    
+    background-image: url('../../Imagenes/botones/menu2.png');     
+}
+
+.aUsuarios{   
+    background-image: url('../../Imagenes/botones/usuario1.png');     
+}
+.aUsuarios:hover{ 
+    background-image: url('../../Imagenes/botones/usuario2.png');     
+}
+
+.aAccesos{   
+    background-image: url('../../Imagenes/botones/Accesos.png');     
+}
+.aAccesos:hover{ 
+    background-image: url('../../Imagenes/botones/Accesos2.png');     
+}
+
+.aSalir{   
+    background-image: url('../../Imagenes/botones/cerrar1.png');     
+}
+.aSalir:hover{ 
+    background-image: url('../../Imagenes/botones/cerrar2.png');     
+}
+
+.datosquin { grid-area: quin;   }
+.datosusu { grid-area: usu;   }
+
+.gridquin{ 
+    min-width: 50vw;         
+    display: grid;      
+    grid-template-areas:
+        'quin usu'
+        'quin usu';    
+    grid-template-columns: 1fr auto;     
+}
+
+.lblleft{
+    float: left;  
+    line-height: 2em;     
+}
+.lblright{
+    float: right; 
+    line-height: 2em;        
+}
+
+.glogo { grid-area: logo; }
+.daccesos { grid-area: accesos; }
+
+.gridlogo{
+    /*border:solid;  
+    border-color:red;*/
+     min-width: 50vw;       
+     height:96vh;            
+    display: grid;      
+    grid-template-areas:
+        'logo accesos';       
+    grid-template-columns: 50% 50%;    
+    /*grid-template-rows:1fr 1fr 1fr;*/
+}
+
+#imglogo
+{   
+    background:URL('../../Imagenes/LOGO1.png');
+    background-repeat: no-repeat;
+    background-size:contain;
+     width: 55%;
+     height: 18rem;
+     margin-left: 10px;   
+     margin-top:10px;
+}
+
+ .noscroll{
+         overflow:hidden;
+      } 
+ 
+ 

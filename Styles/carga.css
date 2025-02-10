@@ -1,0 +1,20 @@
+﻿body {
+    overflow: hidden;
+}
+/* preloader */
+#preloader {
+    position: fixed;
+    top:0; left:0;
+    right:0; bottom:0;
+    background: #E8E8DE;
+    z-index: 100;
+}
+#loader {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left:68400%; 
+top:32000%;
+    /*background: url(../Imagenes/spin.gif) no-repeat center 0;*/
+    margin:-50px 0 0 -50px;
+}

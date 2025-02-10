@@ -1,0 +1,35 @@
+﻿ .pictures {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      max-width: 95rem;
+    }
+
+    .pictures > li {
+      float: left;
+      width: 20%;
+      height: 20%;
+      margin: 0 -1px -1px 0;
+      border: 1px solid transparent;
+      overflow: hidden;
+      cursor:pointer;
+    }
+
+    .pictures > li > img {
+      width: 100%;
+      height:200px;
+      cursor: -webkit-zoom-in;
+      cursor: zoom-in;
+    }
+
+    .viewer-download {
+      color: #fff;
+      font-family: FontAwesome;
+      font-size: .75rem;
+      line-height: 1.5rem;
+      text-align: center;
+    }
+
+    .viewer-download::before {
+      content: "\f019";
+    }

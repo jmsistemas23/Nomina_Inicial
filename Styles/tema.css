@@ -1,0 +1,501 @@
+﻿ /* use background coloring to contrast the html element from the body element */ 
+    html { 
+      height: 99.9%; /* forces page height to equal inner window height. */
+      width: 99.9%;
+      /*background:gray;*/ 
+      font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;
+    }
+    body {
+        margin: 0px;
+      background:white;
+    }
+    body1 { /* change body to body1 or vice versa for quick commenting-out. */
+      min-height: 100%;
+    }
+    body { 
+      position: absolute;
+      top:0; bottom:0;
+      left:0; right:0;
+    }
+
+#divcentro {
+    position:fixed;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 99.9%;
+    height: 99.7%;     
+}
+
+#divmenu {
+    position:relative;
+    /*z-index:10;*/
+    /*display:block;*/
+    top:40px;
+    left: 0px;    
+    height:20px;    
+}
+
+
+
+/*#divtap {
+    position:absolute;
+    top:125.5px;
+    left: 0px;
+    width:100%;
+    height: 87%;   
+}*/
+
+#divlogo {
+    position:fixed;
+    top:0px;
+    left: 0px;
+    width:100%;
+    height: 40px;    
+    background:#861D31;   
+    color: #FFFFFF;        
+    text-align: left;   
+}
+
+ #divbotones{ 
+    float:right;        
+    color:Black;
+    width:10%;
+    height:30%;    
+    text-align: center; 
+    background:green;   
+}
+
+ #divabajo
+     {           
+    position:fixed;
+    bottom:0px;    
+    left:0px;
+    right:0px;
+    height:auto;
+    margin-bottom:0px;
+    background:#861D31;   
+    color: #FFFFFF;        
+}  
+
+#divizquierda{ 
+    margin-right:50px;
+    position:fixed;
+  left:0px;
+  right:0px; 
+  float:left;  
+}
+ 
+
+
+#container{width:100%;}
+.left{float:left;width:100px;}
+.right{float:right;width:100px;}
+#center{margin:0 auto;width:100px;}
+
+#Contenedor {
+    width:80%;
+    height:85%;
+    text-align:center;
+    background-color: #ECEADF;
+}
+#Izq {  
+    float:left;
+    width:20%;
+    height: 99.7%;
+    /*background: red;*/
+}
+
+#Centro {
+    display: inline-block;
+    margin:0 auto;
+    width:15%;
+    height: 99.7%;
+    /*background: #00ff00;*/
+}
+
+#Der {
+    float:right;
+    width:64%;
+    height: 99.7%;
+    /*background: #0000ff;*/
+}
+
+
+.lblleft{
+    float: left;  
+    line-height: 2em;     
+}
+.lblright{
+    float: right;   
+}
+.lblcenter {
+    background: green;
+}
+
+
+
+.TituloGrande {  font-family: Arial; font-size: 20pt; color:#7F3300; font-weight: bold; text-transform: uppercase }
+.TituloPagina {  font-family: Arial; font-size: 16pt; color:red; font-weight: bold; text-transform: uppercase; font-variant:small-caps;}
+.TituloMedio {  font-family: Arial; font-size: 15pt; color:#7F3300; font-weight: bold; text-transform: uppercase; font-variant:small-caps;}
+.SubTitulo {  font-family: Arial; font-size: 13pt; font-weight: bold; font-variant:small-caps; color:red; }
+.LetraChica { font-family: Arial; font-size: 11pt; font-weight: bold; font-variant:small-caps; color:#861D31;  }
+.LetraChicaQuin { font-family: Arial; font-size: 11pt; font-weight: bold; font-variant:small-caps;   }
+.LetraMiniChica { font-family: Arial; font-size: 9pt; font-weight: bold; font-variant:small-caps; color:#7F3300;  }
+.LetraChicaNegrita {  font-family: Arial; font-size: 12pt; color: #7F3300; font-weight: bold; }
+
+.LetraMiniChicaNegrita {  font-family: Arial; font-size: 10pt; color: #7F3300; font-weight: bold; }
+
+.usuario {  font-family: Arial; font-size: 10pt; color:white; font-weight: bold;    }
+
+#dusuario {   
+    top:0px;   
+    width:auto;
+    float: right; 
+}
+
+/*1920x1080*/
+@media screen and (min-width:767px) {
+  #divizquierda{   
+     width:95%; 
+     height:96.2%;       
+   }
+  /*#iframetab {
+        height:50vh;
+        overflow-x:hidden;
+        overflow-Y:hidden;
+    }*/
+}
+@media all and (min-width:992px) {
+      #divizquierda{   
+     width:97%; 
+     height:96.2%; 
+   }
+      /*#iframetab {
+        height:89vh;
+        overflow-x:hidden;
+        overflow-Y:hidden;
+    }*/
+}
+
+@media screen and (min-width:1920px) {
+    #divizquierda{   
+     width:97.5%; 
+     height:96.5%; 
+   }
+    /*#iframetab {
+        height:93.3vh;  
+        overflow-x:hidden;
+        overflow-Y:hidden;     
+    }*/
+}
+
+/*iframe 
+{
+  overflow-x:hidden;
+  overflow-Y:hidden;
+}*/
+
+ .noscroll{
+   overflow:hidden;
+ }
+
+ #dorganismo {
+    width: 180px;
+    height: 200px;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-top: 20px;   
+}
+
+ #logo
+{   
+  width:264px;
+  height:105px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+ }
+
+ input {
+    text-transform:uppercase;
+}
+ .uppercase {
+    text-transform: uppercase;
+}
+ 
+ .lowercase {
+    text-transform: lowercase;
+}
+
+.txtmultilinea {
+    position: relative;
+  border: 1px solid #cbc7bd; 
+  margin: 0;
+  padding: 0;
+  -moz-border-radius: 5px 5px 5px 5px;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;  
+}
+
+#image-preview {
+  width: 00px;
+  height: 50px;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  color: #ecf0f1;
+}
+#image-preview input {
+  line-height: 200px;
+  font-size: 200px;
+  position: absolute;
+  opacity: 0;
+  z-index: 10;
+}
+#image-preview label {
+  position: absolute;
+  z-index: 5;
+  opacity: 0.8;
+  cursor: pointer;
+  background-color: #bdc3c7;
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+  line-height: 50px;
+  text-transform: uppercase;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  text-align: center;
+}
+
+.ScrollStyle
+{
+    max-height: 500px;
+    overflow-y: scroll;
+    overflow-x:hidden;
+}
+
+.btnImpresion {
+
+}
+
+
+ .btnImpresion {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;    
+    background-image: url('../Imagenes/botones/Imprimir1.png');
+    text-align: center;
+    /*background-repeat: repeat;*/ 
+    height: 28px;
+    width: 75px; 
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+ .btnImpresion:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;
+    background-image: url('../Imagenes/botones/Imprimir2.png');   
+    text-align: center;
+    /*background-repeat: repeat;*/  
+    height: 28px;
+    width: 75px;    
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+ .icon-bar {
+    width: 90px;
+    background-color: #555;
+}
+
+.icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+}
+
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+.button {    
+  background-color: #ECEADF;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 5px 10px;  
+  text-align: center;
+  text-decoration: none;  
+}
+
+@-webkit-keyframes glowing {
+  0% { background-color: #ECEADF; -webkit-box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #FF0000; -webkit-box-shadow: 0 0 10px #FF0000; }
+  100% { background-color: #ECEADF; -webkit-box-shadow: 0 0 3px #ECEADF; }
+}
+
+@-moz-keyframes glowing {
+  0% { background-color: #ECEADF; -moz-box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #FF0000; -moz-box-shadow: 0 0 10px #FF0000; }
+  100% { background-color: #ECEADF; -moz-box-shadow: 0 0 3px #ECEADF; }
+}
+
+@-o-keyframes glowing {
+  0% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #FF0000; box-shadow: 0 0 10px #FF0000; }
+  100% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+}
+
+@keyframes glowing {
+  0% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #FF0000; box-shadow: 0 0 10px #FF0000; }
+  100% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+}
+
+.button {
+  -webkit-animation: glowing 1500ms infinite;
+  -moz-animation: glowing 1500ms infinite;
+  -o-animation: glowing 1500ms infinite;
+  animation: glowing 1500ms infinite;
+}
+
+
+
+@-webkit-keyframes glowing2 {
+  0% { background-color: #ECEADF; -webkit-box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #d2cb1c; -webkit-box-shadow: 0 0 10px #d2cb1c; }
+  100% { background-color: #ECEADF; -webkit-box-shadow: 0 0 3px #ECEADF; }
+}
+
+@-moz-keyframes glowing2 {
+  0% { background-color: #ECEADF; -moz-box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #d2cb1c; -moz-box-shadow: 0 0 10px #d2cb1c; }
+  100% { background-color: #ECEADF; -moz-box-shadow: 0 0 3px #ECEADF; }
+}
+
+@-o-keyframes glowing2 {
+  0% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #d2cb1c; box-shadow: 0 0 10px #d2cb1c; }
+  100% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+}
+
+@keyframes glowing2 {
+  0% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #d2cb1c; box-shadow: 0 0 10px #d2cb1c; }
+  100% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+}
+
+.button2 {
+  -webkit-animation: glowing2 1500ms infinite;
+  -moz-animation: glowing2 1500ms infinite;
+  -o-animation: glowing2 1500ms infinite;
+  animation: glowing2 1500ms infinite;
+}
+
+
+@-webkit-keyframes glowing3 {
+  0% { background-color: #ECEADF; -webkit-box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #97BAF4; -webkit-box-shadow: 0 0 10px #97BAF4; }
+  100% { background-color: #ECEADF; -webkit-box-shadow: 0 0 3px #ECEADF; }
+}
+
+@-moz-keyframes glowing3 {
+  0% { background-color: #ECEADF; -moz-box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #97BAF4; -moz-box-shadow: 0 0 10px #97BAF4; }
+  100% { background-color: #ECEADF; -moz-box-shadow: 0 0 3px #ECEADF; }
+}
+
+@-o-keyframes glowing3 {
+  0% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #97BAF4; box-shadow: 0 0 10px #97BAF4; }
+  100% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+}
+
+@keyframes glowing3 {
+  0% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+  50% { background-color: #97BAF4; box-shadow: 0 0 10px #97BAF4; }
+  100% { background-color: #ECEADF; box-shadow: 0 0 3px #ECEADF; }
+}
+
+.button3 {
+  -webkit-animation: glowing3 1500ms infinite;
+  -moz-animation: glowing3 1500ms infinite;
+  -o-animation: glowing3 1500ms infinite;
+  animation: glowing3 1500ms infinite;
+}
+
+
+
+.flash-button{        
+    font-family: Arial;
+    font-size: 15px;    
+	background:#FF0000;
+	padding:5px 10px;
+	color:#fff;
+	border:none;
+	border-radius:5px;
+    width:190px;
+    height:63px;
+	
+	animation-name: flash;
+	animation-duration: 1s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+
+	/*Firefox 1+*/
+	-webkit-animation-name: flash;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+
+	/*//Safari 3-4*/
+	-moz-animation-name: flash;
+	-moz-animation-duration: 1s;
+	-moz-animation-timing-function: linear;
+	-moz-animation-iteration-count: infinite;
+}
+
+@keyframes flash {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1.0; }
+}
+
+/*//Firefox 1+*/
+@-webkit-keyframes flash {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1.0; }
+}
+
+/*//Safari 3-4*/
+@-moz-keyframes flash {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1.0; }
+}

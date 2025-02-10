@@ -1,0 +1,740 @@
+fmov.icon-blank{
+	background:url('icons/blank.gif') no-repeat center center;
+}
+.icon-add{
+	background:url('icons/edit_add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('icons/pencil.png') no-repeat center center;
+}
+.icon-clear{
+	background:url('icons/clear.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('icons/edit_remove.png') no-repeat center center;
+}
+.icon-save{
+	background:url('icons/filesave.png') no-repeat center center;
+}
+.icon-cut{
+	background:url('icons/cut.png') no-repeat center center;
+}
+.icon-ok{
+	background:url('icons/ok.png') no-repeat center center;
+}
+.icon-no{
+	background:url('icons/no.png') no-repeat center center;
+}
+.icon-cancel{
+	background:url('icons/cancel.png') no-repeat center center;
+}
+.icon-reload{
+	background:url('icons/reload.png') no-repeat center center;
+}
+.icon-search{
+	background:url('icons/search.png') no-repeat center center;
+}
+.icon-print{
+	background:url('icons/print.png') no-repeat center center;
+}
+.icon-help{
+	background:url('icons/help.png') no-repeat center center;
+}
+.icon-undo{
+	background:url('icons/undo.png') no-repeat center center;
+}
+.icon-redo{
+	background:url('icons/redo.png') no-repeat center center;
+}
+.icon-back{
+	background:url('icons/back.png') no-repeat center center;
+}
+.icon-sum{
+	background:url('icons/sum.png') no-repeat center center;
+}
+.icon-tip{
+	background:url('icons/tip.png') no-repeat center center;
+}
+.icon-filter{
+	background:url('icons/filter.png') no-repeat center center;
+}
+.icon-man{
+	background:url('icons/man.png') no-repeat center center;
+}
+.icon-lock{
+	background:url('icons/lock.png') no-repeat center center;
+}
+.icon-more{
+	background:url('icons/more.png') no-repeat center center;
+}
+.icon-espera{
+	background:url('icons/entrega.png') no-repeat center center;
+}
+.icon-archivado{
+	background:url('icons/archivados.png') no-repeat center center;
+}
+.icon-reportes{
+	background:url('icons/reportes.png') no-repeat center center;
+}
+
+.icon-mini-add{
+	background:url('icons/mini_add.png') no-repeat center center;
+}
+.icon-mini-edit{
+	background:url('icons/mini_edit.png') no-repeat center center;
+}
+.icon-mini-refresh{
+	background:url('icons/mini_refresh.png') no-repeat center center;
+}
+
+.icon-refresh{
+	background:url('icons/refresh.png') no-repeat center center;
+}
+.icon-large-picture{
+	background:url('icons/large_picture.png') no-repeat center center;
+}
+.icon-large-clipart{
+	background:url('icons/large_clipart.png') no-repeat center center;
+}
+.icon-large-shapes{
+	background:url('icons/large_shapes.png') no-repeat center center;
+}
+.icon-large-smartart{
+	background:url('icons/large_smartart.png') no-repeat center center;
+}
+.icon-large-chart{
+	background:url('icons/large_chart.png') no-repeat center center;
+}
+
+.icon-large-entrar{
+	background:url('icons/login.png') no-repeat center center;
+}
+.icon-layout{
+	background:url('icons/layout.png') no-repeat center center;
+}
+
+
+.Anterior32{
+	background:url('icons/anterior2.png') no-repeat center center;
+}
+.Otras{
+	background:url('icons/buscar.png') no-repeat center center;
+}
+.empleados{
+	background:url('icons/Empleados.png') no-repeat center center;
+}
+.perzonalizar{
+	background:url('icons/personalizar.png') no-repeat center center;
+}
+.sustitutos{
+	background:url('icons/Sustitutos.png') no-repeat center center;
+}
+.honorarios{
+	background:url('icons/Honorarios.png') no-repeat center center;
+}
+.jubilados{
+	background:url('icons/Jubilados.png') no-repeat center center;
+}
+.noempleados{
+	background:url('icons/NoEmpleados.png') no-repeat center center;
+}
+.residente{
+	background:url('icons/residente.png') no-repeat center center;
+}
+.pasante{
+	background:url('icons/pasante.png') no-repeat center center;
+}
+.contratos{
+	background:url('icons/contrato.png') no-repeat center center;
+}
+.interinos{
+	background:url('icons/Interinos.png') no-repeat center center;
+}
+
+
+
+.anterior{
+	background:url('icons/anterior.png') no-repeat center center;
+}
+
+.icon-subir{
+	background:url('icons/subir.png') no-repeat center center;
+}
+
+.icon-bajar{
+	background:url('icons/bajar.png') no-repeat center center;
+}
+
+.icon-ordenacion{
+	background:url('icons/ordenacion.png') no-repeat center center;
+}
+
+.limpiar{
+	background:url('icons/limpiar.png') no-repeat center center;
+}
+
+.siguiente{
+	background:url('icons/siguiente32.png') no-repeat center center;
+}
+
+.aportaciones{
+	background:url('icons/aportaciones.png') no-repeat center center;
+}
+
+.deducciones{
+	background:url('icons/deducciones.png') no-repeat center center;
+}
+
+.percepciones{
+	background:url('icons/percepciones.png') no-repeat center center;
+}
+
+.GenerarKey{
+	background:url('icons/generarkey.png') no-repeat center center;
+}
+
+.Folder{
+	background:url('icons/folder.png') no-repeat center center;
+}
+
+.Folder_Azul{
+	background:url('icons/folder2.png') no-repeat center center;
+}
+
+.icon_marcar{
+	background:url('icons/Marcar.png') no-repeat center center;
+}
+
+.icon_procesos{
+	background:url('icons/exec.png') no-repeat center center;
+}
+
+.icon_opcciones{
+	background:url('icons/opciones.png') no-repeat center center;
+}
+
+.icon_captura{
+	background:url('icons/captura.png') no-repeat center center;
+}
+
+.icon_excel{
+	background:url('icons/excel.png') no-repeat center center;
+}
+
+.icon_pdf{
+	background:url('icons/pdf.png') no-repeat center center;
+}
+
+.icon_cargar{
+	background:url('icons/cargar1.png') no-repeat center center;
+}
+
+.NuevoDoc{
+	background:url('icons/Ndoc.png') no-repeat center center;
+}
+
+.MinNuevoDoc{
+	background:url('icons/Nuevodoc.png') no-repeat center center;
+}
+
+.EditarDoc{
+	background:url('icons/Mdoc.png') no-repeat center center;
+}
+
+.Seleccion{
+	background:url('icons/seleccion2.png') no-repeat center center;
+}
+
+.icon_Seleccion{
+	background:url('icons/seleccion.png') no-repeat center center;
+}
+
+
+.icon_completa{
+	background:url('icons/completa.png') no-repeat center center;
+}
+
+.icon_parcial{
+	background:url('icons/parcial.png') no-repeat center center;
+}
+
+.icon_movimientos{
+	background:url('icons/movimientos.png') no-repeat center center;
+}
+
+.icon_documentos{
+	background:url('icons/documentos.png') no-repeat center center;
+}
+
+.icon_documento{
+	background:url('icons/documento.png') no-repeat center center;
+}
+
+.icon_cargar{
+	background:url('icons/cargar1.png') no-repeat center center;
+}
+
+.icon_Excel{
+	background:url('icons/Bexcel.png') no-repeat center center;
+}
+
+.Cargar_Excel{
+	background:url('icons/CargarExcel.png') no-repeat center center;
+}
+
+.icon-cifras{
+	background:url('icons/Cifras.png') no-repeat center center;
+}
+
+.icon-afectados{
+	background:url('icons/Afectados.png') no-repeat center center;
+}
+
+.icon-pendientes{
+	background:url('icons/Pendientes.png') no-repeat center center;
+}
+
+.icon-rechazados{
+	background:url('icons/Rechazados.png') no-repeat center center;
+}
+
+.icon-cerrar{
+	background:url('icons/cerrar.png') no-repeat center center;
+}
+
+.icon-agregar{
+	background:url('icons/agregar.png') no-repeat center center;
+}
+
+.icon-inicio{
+	background:url('icons/ini.png') no-repeat center center;
+}
+
+.icon-configuracion{
+	background:url('icons/conf.png') no-repeat center center;
+}
+
+.icon-recepcion{
+	background:url('icons/rep.png') no-repeat center center;
+}
+
+.icon-captura{
+	background:url('icons/cap.png') no-repeat center center;
+}
+
+.icon-operacion{
+	background:url('icons/ope.png') no-repeat center center;
+}
+
+.icon-catalogos{
+	background:url('icons/cat.png') no-repeat center center;
+}
+
+.icon-impbarras36{
+	background:url('icons/impbarras36.png') no-repeat center center;
+}
+
+.icon-impbarras16{
+	background:url('icons/impbarras16.png') no-repeat center center;
+}
+
+.icon-barcode{
+	background:url('icons/barcode.png') no-repeat center center;
+}
+
+.icon-anexos{
+	background:url('icons/anexo.png') no-repeat center center;
+}
+
+.icon-imagenes{
+	background:url('icons/imagenes2.png') no-repeat center center;
+}
+
+.vistobueno{
+	background:url('icons/vistoBueno.png') no-repeat center center;
+}
+
+.cerrar2{
+	background:url('icons/cerrar2.png') no-repeat center center;
+}
+
+.Marcar_Masivo{
+	background:url('icons/marcar.png') no-repeat center center;
+}
+
+.icon-Eliminar{
+	background:url('icons/eliminar.png') no-repeat center center;
+}
+
+.icon-Archivar{
+	background:url('icons/archivero.png') no-repeat center center;
+}
+
+.icon-Escaner{
+	background:url('icons/scaner.png') no-repeat center center;
+}
+
+.icon-Editar{
+	background:url('icons/editar.png') no-repeat center center;
+}
+
+.icon-BuscarArchivos{
+	background:url('icons/buscarArchivos.png') no-repeat center center;
+}
+
+.icon-folios{
+	background:url('icons/CodBar16.png') no-repeat center center;
+}
+
+.icon-Ordenfolio {
+    background: url('icons/folios.png') no-repeat center center;
+}
+
+.icon-folios32{
+	background:url('icons/CodBar32.png') no-repeat center center;
+}
+
+.icon-recibirfolios{
+	background:url('icons/recibircodigo.png') no-repeat center center;
+}
+
+.icon-DisReportes{
+	background:url('icons/disreportes.png') no-repeat center center;
+}
+
+.icon-Salir32{
+	background:url('icons/salir32.png') no-repeat center center;
+}
+
+.icon-rotar{
+	background:url('icons/Rotate180.png') no-repeat center center;
+}
+
+.icon-RIzq{
+	background:url('icons/RotateLeft.png') no-repeat center center;
+}
+
+.icon-RDer{
+	background:url('icons/RotateRight.png') no-repeat center center;
+}
+
+.icon-Noti32{
+	background:url('icons/notificaciones32.png') no-repeat center center;
+}
+
+.icon-Tareas{
+	background:url('icons/tareas.png') no-repeat center center;
+}
+
+.icon-Vencidos{
+	background:url('icons/vencido.png') no-repeat center center;
+}
+
+.icon-Pendientes{
+	background:url('icons/DocPendientes.png') no-repeat center center;
+}
+
+.icon-Obs{
+	background:url('icons/comentario.png') no-repeat center center;
+}
+
+.icon-Img{
+	background:url('icons/Imagenes.png') no-repeat center center;
+}
+
+.icon-btnInicio16 {
+	background: url('icons/btnInicio16.png') no-repeat center center;
+}
+
+.icon-btnInicio{
+	background:url('icons/btnInicio.png') no-repeat center center;
+}
+
+.icon-btnAnterior{
+	background:url('icons/btnAnterior.png') no-repeat center center;
+}
+
+.icon-btnSiguiente{
+	background:url('icons/btnSiguiente.png') no-repeat center center;
+}
+
+.icon-btnUltimo{
+	background:url('icons/btnUltimo.png') no-repeat center center;
+}
+
+.icon-btnEditorImg{
+	background:url('icons/EditorImg.png') no-repeat center center;
+}
+
+.icon-tablas{
+	background:url('icons/tablas.png') no-repeat center center;
+}
+
+.icon-Y{
+	background:url('icons/Y.png') no-repeat center center;
+}
+
+.icon-O{
+	background:url('icons/O.png') no-repeat center center;
+}
+
+.icon-Filtro{
+	background:url('icons/filter_add.png') no-repeat center center;
+}
+
+.Folios{
+	background:url('icons/Folios.png') no-repeat center center;
+}
+
+.Dis-Reportes{
+	background:url('icons/disreportes.png') no-repeat center center;
+}
+
+.Dis-Filtro{
+	background:url('icons/disfiltro.png') no-repeat center center;
+}
+
+.Vista-Reporte{
+	background:url('icons/vistareporte.png') no-repeat center center;
+}
+
+.Imp-Reporte{
+	background:url('icons/impreporte.png') no-repeat center center;
+}
+
+.icon-Adocumento{
+	background:url('icons/Adocumento.png') no-repeat center center;
+}
+
+.icon-Edocumento{
+	background:url('icons/Edocumento.png') no-repeat center center;
+}
+
+.icon-Mdocumento{
+	background:url('icons/Mdocumento.png') no-repeat center center;
+}
+
+.icon-BDoc{
+	background:url('icons/doc-ico.png') no-repeat center center;
+}
+
+.buscar{
+	background:url('icons/lupa.png') no-repeat center center;
+}
+
+.icon_CambiarPSW{
+	background:url('icons/cambiopas.png') no-repeat center center;
+}
+
+.icon_Accesos{
+	background:url('icons/Accesos.png') no-repeat center center;
+}
+
+.icon_Menu{
+	background:url('icons/menu.png') no-repeat center center;
+}
+
+.icon_Cerrar{
+	background:url('icons/cerrar.png') no-repeat center center;
+}
+
+.icon_Usuario{
+	background:url('icons/usuario.png') no-repeat center center;
+}
+
+.icon_Add_Cat{
+	background:url('icons/AD_Cat.png') no-repeat center center;
+}
+
+.icon_Mod_Cat{
+	background:url('icons/Mod_Cat.png') no-repeat center center;
+}
+
+.icon_Add_Nivel{
+	background:url('icons/AD_Nivel.png') no-repeat center center;
+}
+
+.icon_Mod_Nivel{
+	background:url('icons/Mod_Nivel.png') no-repeat center center;
+}
+
+.icon_InicioMin{
+	background:url('icons/Inicio.png') no-repeat center center;
+}
+
+.icon_MovPer{
+	background:url('icons/mov_mp.png') no-repeat center center;
+}
+
+.icon_MovCon {
+	background: url('icons/mov_mc.png') no-repeat center center;
+}
+
+.icon_DatPer {
+	background: url('icons/mov_dp.png') no-repeat center center;
+}
+
+.icon_IncLab {
+	background: url('icons/mov_il.png') no-repeat center center;
+}
+
+.icon_MovEsp {
+	background: url('icons/mov_me.png') no-repeat center center;
+}
+
+.icon_RefFam {
+	background: url('icons/mov_rf.png') no-repeat center center;
+}
+
+.icon_Ter {
+	background: url('icons/mov_tr.png') no-repeat center center;
+}
+
+.icon_PenAli {
+	background: url('icons/penalim.png') no-repeat center center;
+}
+
+.icon_mini-cat{
+	background:url('icons/mini-cat.png') no-repeat center center;
+}
+
+.icon_mini-historial{
+	background:url('icons/historial.png') no-repeat center center;
+}
+
+.icon_mini-reportes{
+	background:url('icons/reportes2.png') no-repeat center center;
+}
+
+.icon_NewTabla{
+	background:url('icons/tabla.png') no-repeat center center;
+}
+
+.icon_EditTabla{
+	background:url('icons/tabla_edit.png') no-repeat center center;
+}
+
+.icon_SelTabla{
+	background:url('icons/Seltabla.png') no-repeat center center;
+}
+
+.icon_Calendario{
+	background:url('icons/calendario.png') no-repeat center center;
+}
+
+.icon_MiniSalir{
+	background:url('icons/Salir20.png') no-repeat center center;
+}
+
+.icon_MiniBExcel{
+	background:url('icons/MiniBajarExcel.png') no-repeat center center;
+}
+
+.icon_BajarExcel{
+	background:url('icons/BajarExcel.png') no-repeat center center;
+}
+
+.icon_Relacion{
+	background:url('icons/relacion.png') no-repeat center center;
+}
+
+.icon_Relacion2{
+	background:url('icons/relacion2.png') no-repeat center center;
+}
+
+
+.icon_Copiar{
+	background:url('icons/copiar2.png') no-repeat center center;
+}
+
+.icon_Delete{
+	background:url('icons/delete.png') no-repeat center center;
+}
+
+.btnInicio32{
+	background:url('icons/Inicio32.png') no-repeat center center;
+}
+
+.btnAnterior32{
+	background:url('icons/Anterior32.png') no-repeat center center;
+}
+
+.btnSiguiente32{
+	background:url('icons/Siguiente32.png') no-repeat center center;
+}
+
+.btnUltimo32{
+	background:url('icons/Ultimo32.png') no-repeat center center;
+}
+
+.btnInicio20{
+	background:url('icons/Inicio20.png') no-repeat center center;
+}
+
+.btnAnterior20{
+	background:url('icons/Anterior20.png') no-repeat center center;
+}
+
+.btnSiguiente20{
+	background:url('icons/Siguiente20.png') no-repeat center center;
+}
+
+.btnUltimo20{
+	background:url('icons/Ultimo20.png') no-repeat center center;
+}
+
+.Bloqueo{
+	background:url('icons/Bloqueo.png') no-repeat center center;
+}
+
+.Desbloqueo{
+	background:url('icons/Desbloqueo.png') no-repeat center center;
+}
+
+.icon-RefFam{
+	background:url('icons/referencias.png') no-repeat center center;
+}
+
+.icon-historia{
+	background:url('icons/historia2.png') no-repeat center center;
+}
+
+.icon-Importar{
+	background:url('icons/Importar.png') no-repeat center center;
+}
+
+.icon-ExpTxT{
+	background:url('icons/export_text.png') no-repeat center center;
+}
+
+.icon-Texto{
+	background:url('icons/Texto.png') no-repeat center center;
+}
+
+.icon-Proceso{
+	background:url('icons/configuracion.png') no-repeat center center;
+}
+
+.icon-mini_Texto{
+	background:url('icons/mini-export_text.png') no-repeat center center;
+}
+
+.icon-costo{
+	background:url('icons/costo.png') no-repeat center center;
+}
+
+.icon-proyeccion{
+	background:url('icons/proyeccion.png') no-repeat center center;
+}
+
+
+
+
+
+
+
+
+
+
+
+

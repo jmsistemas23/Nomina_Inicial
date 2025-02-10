@@ -1,0 +1,84 @@
+﻿* {
+    font-family:sans-serif;
+}
+body {
+
+}
+
+/* CLASES */
+.inputChico {
+    width:180px;
+}
+.inputMediano {
+    width:350px;
+}
+.inputGrande {
+    width:550px;
+}
+.hijosCentrados {
+    text-align:center;
+}
+.hijosIzquierda {
+    text-align:left;
+}
+.hijosDerecha {
+    text-align:right;
+}
+.centrado {
+    margin:auto;
+}
+.width100 {
+    width:100%;
+}
+.width60 {
+    width:60%;
+}
+.width45 {
+    width:45%;
+}
+.oculto {
+    display:none;
+}
+.ButtonCaptura {
+    padding: .3em 1em .3em 1em ;
+    font-weight:bold;
+    color: rgba(1,1,1,.8);
+}
+.bordeSencillo {
+    border: solid 2px ;
+    border-color:#FFA500;
+}
+.paddingSencillo {
+    padding: 3px 5px 3px 5px;
+}
+.margenTopNegativo {
+    margin-top:-10px;
+}
+.fixed {
+    position:fixed;
+}
+.border {
+    border: 2px solid black;
+}
+.fondoBlanco {
+    background-color:darkgray;    
+}
+.letrasGrices {
+    color: rgba(1,1,1,.5);
+}
+.cursorPointer {
+    cursor:pointer;
+}
+.mayusculas {
+    text-transform: uppercase;    
+}
+/**********/
+
+#tblBusquedaDeIndices {
+    width:500px;
+}
+#tblCapturaIndice {
+    padding:1em;
+    border: 3px solid orange;
+}
+.izquierda { float: left;  }

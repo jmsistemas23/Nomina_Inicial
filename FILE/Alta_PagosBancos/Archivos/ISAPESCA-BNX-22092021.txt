@@ -1,0 +1,8 @@
+000122/09/202112:13000034067404SRIA DE ADMON Y FINANZAS DEL GOB DEL000000000003JUAN F, MANJARREZ/LOAIZA            
+A00000100000090440000000000000580484201SERRANO SAINZ LETICIA                                  TDBANAMEX1          00100999999999900D                  04                                                  04
+A00000100000090250000000000000062729601MEZA ROGEL JONATHAN                                    TDBANAMEX2          00100999999999900D                  04                                                  04
+A00000100000090390000000000000313693501HERNANDEZ RODRIGUEZ ROBERTO JOEL                       TDBANAMEX3          00100999999999900D                  04                                                  04
+A00000100000090370000000000000626151301RUIZ GARCIA JORGE ALBERTO                              TDBANAMEX4          00100999999999900D                  04                                                  04
+A00000100000090220000000000000889480901GARZON FLORES MARIA LAURA                              TDBANAMEX5          00100999999999900D                  04                                                  04
+A00000100000090440000000000000453612701ANGULO OSUA ALEXIS                                     TDBANAMEX6          00100999999999900D                  04                                                  04
+A00000100000090450000000000000858953301GUZMAN VILLASEÑOR JOSE GUADALUPE                       TDBANAMEX7          00100999999999900D                  04                                                  04

@@ -1,0 +1,41 @@
+000117/11/202110:59000034067404SRIA DE ADMON Y FINANZAS DEL GOB DEL000000000003JUAN F, MANJARREZ/LOAIZA            
+A00000100000090330000000000000962923301APODACA GUERRERO MIRELLA                               TDBANAMEX1          00100999999999900D                  04                                                  04
+A00000100000090340000000000000229794201AGUILAR ALVAREZ ANACLETA                               TDBANAMEX2          00100999999999900D                  04                                                  04
+A00000100000090280000000000000372185901AGUIRRE ALARCON MARIA ELENA                            TDBANAMEX3          00100999999999900D                  04                                                  04
+A00000100000090350000000000000403927201CASTRO AGUILAR GILBERTO                                TDBANAMEX4          00100999999999900D                  04                                                  04
+A00000100000093000000000000000417448601CHEGUE LATABAN CUTBERTO                                TDBANAMEX5          00100999999999900D                  04                                                  04
+A00000100000090340000000000000121828301HERNANDEZ ESTRADA MARTHA ESPERANZA                     TDBANAMEX6          00100999999999900D                  04                                                  04
+A00000100000090360000000000000258894301LUNA LOPEZ HECTOR MANUEL                               TDBANAMEX7          00100999999999900D                  04                                                  04
+A00000100000090370000000000000390576201MARTINEZ ESPINOZA LUIS ENRIQUE                         TDBANAMEX8          00100999999999900D                  04                                                  04
+A00000100000090110000000000000841566201OJEDA MARTINEZ MARTIN                                  TDBANAMEX9          00100999999999900D                  04                                                  04
+A00000100000090350000000000000301150101PIÑA URIAS MARIO ALBERTO                               TDBANAMEX10         00100999999999900D                  04                                                  04
+A00000100000090110000000000000845040901VALDEZ QUIROZ JAIME LUIS                               TDBANAMEX11         00100999999999900D                  04                                                  04
+A00000100000090240000000000000862444101VILLANUEVA MEDINA ARIEL                                TDBANAMEX12         00100999999999900D                  04                                                  04
+A00000100000090380000000000000474368301MONTIS DIEZ MARTINEZ RAFAELA                           TDBANAMEX13         00100999999999900D                  04                                                  04
+A00000100000090290000000000000435228601ZATARAIN OSUNA LEOVIGILDA                              TDBANAMEX14         00100999999999900D                  04                                                  04
+A00000100000090260000000000000665929501FRIAS CAMACHO SONIA IMELDA                             TDBANAMEX15         00100999999999900D                  04                                                  04
+A00000100000090340000000000000219628301DUARTE ROBLES ROMINA                                   TDBANAMEX16         00100999999999900D                  04                                                  04
+A00000100000090360000000000000153490401LOPEZ FIERRO GUADALUPE ARMIDA                          TDBANAMEX17         00100999999999900D                  04                                                  04
+A00000100000090310000000000000931480501APODACA ROJO MARIA LOURDES                             TDBANAMEX18         00100999999999900D                  04                                                  04
+A00000100000090340000000000000801405501BERNAL NIEBLA AIDA MARGARITA                           TDBANAMEX19         00100999999999900D                  04                                                  04
+A00000100000090360000000000000621650101DIAZ ZAVALA MARIA ESPERANZA                            TDBANAMEX20         00100999999999900D                  04                                                  04
+A00000100000090240000000000000573715601DIAZ RUIZ MARIA DOLORES                                TDBANAMEX21         00100999999999900D                  04                                                  04
+A00000100000090340000000000000695188401INZUNZA OJEDA MARIA ELENA                              TDBANAMEX22         00100999999999900D                  04                                                  04
+A00000100000090340000000000000785073901OSUNA GUZMAN JOSEFINA                                  TDBANAMEX23         00100999999999900D                  04                                                  04
+A00000100000090350000000000000234862601SALAS CASTRO LUZ MARIA                                 TDBANAMEX24         00100999999999900D                  04                                                  04
+A00000100000090100000000000000651072401TOSTADO ENRIQUE ALONSO                                 TDBANAMEX25         00100999999999900D                  04                                                  04
+A00000100000093000000000000000372866601BUSTAMANTE TORRES MARIA DEL ROCIO                      TDBANAMEX26         00100999999999900D                  04                                                  04
+A00000100000090390000000000000247110201GARCIA GOMEZ SILVIA GUADALUPE                          TDBANAMEX27         00100999999999900D                  04                                                  04
+A00000100000090080000000000000735982301FELIX PICO JAIME ALBERTO                               TDBANAMEX28         00100999999999900D                  04                                                  04
+A00000100000090110000000000000839733801LOPEZ FLORES MIGUEL                                    TDBANAMEX29         00100999999999900D                  04                                                  04
+A00000100000093010000000000000252198501FRANCO MACHADO MAURA GUILLERMINA                       TDBANAMEX30         00100999999999900D                  04                                                  04
+A00000100000090240000000000000342196801LERMA NAVARRETE AMIN KADAR                             TDBANAMEX31         00100999999999900D                  04                                                  04
+A00000100000090350000000000000348679801GUTIERREZ MANZO MANUEL SALVADOR                        TDBANAMEX32         00100999999999900D                  04                                                  04
+A00000100000090360000000000000942428801QUIROZ MANZO OSCAR                                     TDBANAMEX33         00100999999999900D                  04                                                  04
+A00000100000090200000000000000045734901MORENO DELIA PATRICIA                                  TDBANAMEX34         00100999999999900D                  04                                                  04
+A00000100000090260000000000000017548201LUCERO GARCIA ARIANA GUADALUPE                         TDBANAMEX35         00100999999999900D                  04                                                  04
+A00000100000090300000000000000997031301BARAJAS MACHADO ELMA ROSA                              TDBANAMEX36         00100999999999900D                  04                                                  04
+A00000100000090360000000000000256237501PALAZUELOS BASTIDAS JESSICA DEL ROSARIO                TDBANAMEX37         00100999999999900D                  04                                                  04
+A00000100000070140000000000000506639301QUIÑONEZ LOPEZ EDELBAIZ                                TDBANAMEX38         00100999999999900D                  04                                                  04
+A00000100000090290000000000000940601501PLASCENCIA SANCHEZ LILIANA                             TDBANAMEX39         00100999999999900D                  04                                                  04
+A00000100000090420000000000000229401401RODRIGUEZ VILLANUEVA LORENZO ANTONIO                   TDBANAMEX40         00100999999999900D                  04                                                  04

@@ -1,0 +1,515 @@
+﻿
+ html,body{
+            margin:0px;
+            padding:0px;
+            height:100%;            
+            width:100%;
+            overflow:hidden;
+            font-family:Arial;
+            background:#E1DFD9;
+            /*background:#F4F4F4;*/            
+             /*background:url('../imagenes/fondo1.jpg') left top;*/
+          }
+        #form1
+        {
+            height: 100%;           
+            width: 100%;            
+        }  
+        #form1 Div.forma
+        {
+            position:fixed;
+            width:100%;        
+            height:100%;             
+        }   
+        #divmenu
+        {
+            text-align: left;
+        }
+        #frame
+        {
+            text-align: center;
+        }  
+       
+.TituloGrande {  font-family: Arial; font-size: 20pt; color:#7F3300; font-weight: bold; text-transform: uppercase }
+.TituloPagina {  font-family: Arial; font-size: 18pt; color:#7F3300; font-weight: bold; text-transform: uppercase; font-variant:small-caps;}
+.TituloMedio {  font-family: Arial; font-size: 15pt; color:#7F3300; font-weight: bold; text-transform: uppercase; font-variant:small-caps;}
+.SubTitulo {  font-family: Arial; font-size: 13pt; font-weight: bold; font-variant:small-caps; color:#CC3300; }
+.LetraChica { font-family: Arial; font-size: 11pt; font-weight: bold; font-variant:small-caps; color:#861D31;  }
+.LetraChica2 { font-family: Arial; font-size: 11pt; font-weight: bold; font-variant:small-caps; color:red; text-align:right; }
+.LetraChicaGreen {
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: green;
+    text-align: right;
+}
+.LetraChicaQuin { font-family: Arial; font-size: 11pt; font-weight: bold; font-variant:small-caps;   }
+.LetraMiniChica { font-family: Arial; font-size: 9pt; font-weight: bold; font-variant:small-caps; color:#7F3300;  }
+.LetraChicaNegrita {  font-family: Arial; font-size: 12pt; color: #7F3300; font-weight: bold; }
+
+.lblleft{
+    float: left;  
+    line-height: 2em;     
+}
+.lblright{
+    float: right;   
+    line-height: 4em; 
+}
+.lblcenter {
+    background: green;
+}
+
+.derecha{
+    float: right;      
+    line-height: 2em;
+}
+
+ input {
+    text-transform:uppercase;
+}
+
+
+/*.TituloGrande {  font-family: Arial; font-size: 20pt; color:#663300; font-weight: bold; text-transform: uppercase }
+.TituloPagina {  font-family: Arial; font-size: 14pt; font-weight: bold; color=#2076B9; text-transform: uppercase; letter-spacing:1px; text-align:center; }
+.SubTitulo {  font-family: Arial; font-size: 13pt; font-weight: bold; font-variant:small-caps; color:#CC3300; }
+.LetraChica {  font-family: Arial; font-size: 11pt; color:black; }
+.LetraChicaNegra {  font-family: Arial; font-size: 8pt; color:#CC6600; }
+.LetraChicaNegrita {  font-family: Arial; font-size: 8pt; color: #CC6600; font-weight: bold; }*/
+  
+ 
+ 
+.CentrarDiv {
+    width:60%;
+    border:2px solid orange;
+    margin:0 auto;    
+    margin-top:0vh;
+    padding-bottom:2vh;
+    display:none;
+}
+       
+   .container > header {
+	margin: 10px;
+	padding: 20px 10px 10px 10px;
+	position: relative;
+	display: block;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+.container > header h1 {
+	font-size: 30px;
+	line-height: 38px;
+	margin: 0;
+	position: relative;
+	font-weight: 300;	
+	color:#388a5a;
+	text-shadow: 0 1px 1px rgba(255,255,255,0.6);
+	/* padding: 0 0 12px 5px;*/
+}
+
+.container > header h2 {
+	font-size: 14px;
+	font-weight: 300;
+	margin: 0;
+	padding: 15px 0 5px 0;
+	color: #666;
+	font-family: Cambria, Georgia, serif;
+	font-style: italic;
+	text-shadow: 0 1px 1px rgba(255,255,255,0.6);
+} 
+
+.container > header h3 {
+	font-size: 08px;
+	font-weight: 300;
+	margin: 0;
+	padding: 15px 0 5px 0;
+	color: #666;
+	font-family: Cambria, Georgia, serif;
+	font-style: italic;
+	text-shadow: 0 1px 1px rgba(255,255,255,0.6);
+}  
+
+#cssmenu{ height:37px; display:block; padding:0; margin:0;  border:1px solid; border-radius:5px; } 
+#cssmenu > ul {list-style:inside none; padding:0; margin:0;} 
+#cssmenu > ul > li {list-style:inside none; padding:0; margin:0; float:left; display:block; position:relative;} 
+#cssmenu > ul > li > a{ outline:none; display:block; position:relative; padding:12px 20px; font:bold 13px/100% Arial, Helvetica, sans-serif; text-align:center; text-decoration:none; text-shadow:1px 1px 0 rgba(0,0,0, 0.4); } 
+#cssmenu > ul > li:first-child > a{border-radius:5px 0 0 5px;} 
+#cssmenu > ul > li > a:after{ content:''; position:absolute; border-right:1px solid; top:-1px; bottom:-1px; right:-2px; z-index:99; } 
+#cssmenu ul li.has-sub:hover > a:after{top:0; bottom:0;} 
+#cssmenu > ul > li.has-sub > a:before{ content:''; position:absolute; top:18px; right:6px; border:5px solid transparent; border-top:5px solid #fff; } 
+#cssmenu > ul > li.has-sub:hover > a:before{top:19px;} 
+#cssmenu ul li.has-sub:hover > a{ background:#3f3f3f; border-color:#3f3f3f; padding-bottom:13px; padding-top:13px; top:-1px; z-index:999; } 
+#cssmenu ul li.has-sub:hover > ul, #cssmenu ul li.has-sub:hover > div{display:block;} 
+#cssmenu ul li.has-sub > a:hover{background:#3f3f3f; border-color:#3f3f3f;} 
+#cssmenu ul li > ul, #cssmenu ul li > div{ display:none; width:auto; position:absolute; top:30px; padding:10px 0; background:#3f3f3f; border-radius:0 0 5px 5px; z-index:999; } 
+#cssmenu ul li > ul{width:200px;} 
+#cssmenu ul li > ul li{display:block; list-style:inside none; padding:0; margin:0; position:relative;} 
+#cssmenu ul li > ul li a{ outline:none; display:block; position:relative; margin:0; padding:8px 20px; font:10pt Arial, Helvetica, sans-serif; color:#fff; text-decoration:none; text-shadow:1px 1px 0 rgba(0,0,0, 0.5); } 
+/*#cssmenu, #cssmenu > ul > li > ul > li a:hover{ background:#4fbdf0; background:-moz-linear-gradient(top, #4fbdf0 0%, #45b2d2 100%); background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#4fbdf0), color-stop(100%,#45b2d2)); background:-webkit-linear-gradient(top, #4fbdf0 0%,#45b2d2 100%); background:-o-linear-gradient(top,  #4fbdf0 0%,#45b2d2 100%); background:-ms-linear-gradient(top, #4fbdf0 0%,#45b2d2 100%); background:linear-gradient(top,  #4fbdf0 0%,#45b2d2 100%); filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4fbdf0', endColorstr='#45b2d2',GradientType=0); } */
+#cssmenu, #cssmenu > ul > li > ul > li a:hover{ background:#347A64; background:-moz-linear-gradient(top, #58CEA9 0%, #347A64 100%); background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#58CEA9), color-stop(100%,#347A64)); background:-webkit-linear-gradient(top, #58CEA9 0%,#347A64 100%); background:-o-linear-gradient(top,  #58CEA9 0%,#347A64 100%); background:-ms-linear-gradient(top, #58CEA9 0%,#347A64 100%); background:linear-gradient(top,  #58CEA9 0%,#347A64 100%); filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#58CEA9', endColorstr='#347A64',GradientType=0); } 
+ul ul {
+    margin-left: 0;
+    
+}
+/*#cssmenu{border-color:#3589a1;} */
+#cssmenu{border-color:#BA8937;}
+#cssmenu > ul > li > a{border-right:1px solid #3589a1; color:#fff;} 
+/*#cssmenu > ul > li > a:after{border-color:#6ed1ff;} */
+#cssmenu > ul > li > a:after{border-color:#347A64;} 
+/*#cssmenu > ul > li > a:hover{background:#36acd2;} */
+#cssmenu > ul > li > a:hover{background:#347A64;} 
+
+#topbar {
+  background: #4f4a41;
+  padding: 10px 0 10px 0;
+  text-align: Left;  
+}
+
+#topbar a {
+  color: #fff;
+  font-size:1.3em;
+  line-height: 1.25em;
+  text-decoration: none;
+  opacity: 0.5;
+  font-weight: bold;
+}
+
+#boton {  
+  padding: 10px 0 10px 0;
+  text-align:right;
+}
+
+ #abajo
+     {   
+    position:fixed;
+    bottom:0px;    
+    left:0px;
+    right:0px;
+    height:3%;
+    margin-bottom:0px;
+    background:#861D31;   
+    color: #FFFFFF;
+         
+}   
+
+#izquierda{ 
+ position:fixed; 
+  left:0px;
+  right:0px;
+  width:96%;
+  height:96.9%;
+  float:left;
+}
+
+#centro {
+    position:fixed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%; 
+    /*background:url('../imagenes/fondo.jpg') no-repeat left top;*/      
+}
+
+#derecha{
+ /*background: #4f4a41;*/
+ color:Black;
+ width:4vw;
+height:100VH;
+float:right;
+/*padding: 0px 0px 0px 0;*/
+text-align: center; 
+}
+
+#logo
+{   
+  width:300px;
+  height:90px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+ }
+
+#dorganismo
+{   
+  width:180px;
+  height:200px;
+  margin-left:20px;
+  margin-right:auto;
+  margin-top:20px;
+ }
+#contenido
+{   
+  width:300px;
+  height:200px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:25px;
+ }
+ 
+ #Encabezados
+ {
+   color:White;
+  font-size:1.3em;
+  font-weight: bold;
+ }
+ 
+ #Encabezados2
+ {
+   color:White;
+  font-size:1.1em;
+  font-weight: bold;
+ }
+ 
+#Contenido {
+  /*display: block;
+  width: 95%;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 35px;
+  background: White;*/
+  width: auto;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background: red;
+}
+
+#Contenido2 {
+  display: block;
+  width: 80%;
+  background: #fff;
+  padding: 25px 20px;
+  padding-bottom: 35px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+
+
+#boxContainerContainer {
+    background: #fdd;
+    text-align: center;
+}
+
+#boxContainer {
+    display:inline-block;
+    /*border:thick dotted #060;*/
+    margin: 0px auto 10px auto;
+    text-align: left;
+    width:100%;
+}
+
+#box1 {
+    width: 180px;
+    height: 30px;
+    background: #999;
+    display: inline-block;
+    float: left;
+}
+#box2 {
+    width: 70%;
+    height: 30px;
+    background: red;
+    display: inline-block;
+    float: left;
+}
+#box3 {
+    width: 280px;
+    height: 30px;
+    background: #999;
+    display: inline-block;
+    float: left;
+}
+
+.divscroll {
+   width: 95%;
+    height: 570px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.divscrollconsulta {
+   width: 97%;
+    height: 685px;
+    overflow-x: hidden;overflow-y: scroll;
+}
+
+/*.btncargar {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;    
+    background-image: url('../Imagenes/botones/CARGAR1.png');
+    text-align: center;
+  
+    height: 28px;
+    width: 68px; 
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+ .btncargar:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;
+    background-image: url('../Imagenes/botones/CARGAR2.png');   
+    text-align: center;  
+    height: 28px;
+    width: 68px;    
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}*/
+ 
+ .btncargarMasiva {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;    
+    background-image: url('../Imagenes/botones/Cargar1.png');
+    text-align: center;
+    height: 65px;
+    width: 62px; 
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+ .btncargarMasiva:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;
+    background-image: url('../Imagenes/botones/Cargar2.png');   
+    text-align: center;   
+    height: 65px;
+    width: 62px;    
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+.btnexaminar32 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;
+    background-image: url('../Imagenes/botones/Examinar_32_1.png');
+    text-align: center;
+    /*background-repeat: repeat;*/
+    height: 32px;
+    width: 63px;
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+.btnexaminar32:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;
+    background-image: url('../Imagenes/botones/Examinar_32_1.png');
+    text-align: center;
+    /*background-repeat: repeat;*/
+    height: 32px;
+    width: 63px;
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+
+.btnexaminar {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;    
+    background-image: url('../Imagenes/botones/Examinar1.png');
+    text-align: center;
+    /*background-repeat: repeat;*/ 
+    height: 63px;
+    width: 63px; 
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+ .btnexaminar:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;
+    background-image: url('../Imagenes/botones/Examinar2.png');   
+    text-align: center;
+    /*background-repeat: repeat;*/  
+    height: 63px;
+    width: 63px;    
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+ .btnArchivo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;    
+    background-image: url('../Imagenes/botones/BajarArchivo1.png');
+    text-align: center;
+    /*background-repeat: repeat;*/ 
+    height: 63px;
+    width: 63px; 
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+ .btnArchivo:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    cursor: pointer;
+    background-image: url('../Imagenes/botones/BajarArchivo2.png');   
+    text-align: center;
+    /*background-repeat: repeat;*/  
+    height: 63px;
+    width: 63px;    
+    word-spacing: 0.2em;
+    border-style: none;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}

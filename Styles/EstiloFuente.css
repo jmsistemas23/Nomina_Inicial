@@ -1,0 +1,14 @@
+﻿.TituloGrande {  font-family: Arial; font-size: 20pt; color:#7F3300; font-weight: bold; text-transform: uppercase }
+.TituloPagina {  font-family: Arial; font-size: 18pt; color:#7F3300; font-weight: bold; text-transform: uppercase; font-variant:small-caps;}
+.TituloMedio {  font-family: Arial; font-size: 15pt; color:#7F3300; font-weight: bold; text-transform: uppercase; font-variant:small-caps;}
+.SubTitulo {  font-family: Arial; font-size: 13pt; font-weight: bold; font-variant:small-caps; color:#CC3300; }
+.LetraChica { font-family: Arial; font-size: 11pt; font-weight: bold; font-variant:small-caps; color:white;  }
+.LetraChicaQuin { font-family: Arial; font-size: 11pt; font-weight: bold; font-variant:small-caps;   }
+.LetraMiniChica { font-family: Arial; font-size: 9pt; font-weight: bold; font-variant:small-caps; color:#7F3300;  }
+.LetraChicaNegrita {  font-family: Arial; font-size: 12pt; color: #7F3300; font-weight: bold; }
+
+ .barraslide
+     {               
+    background:#861D31;   
+    color: #FFFFFF;        
+} 
